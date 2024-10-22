@@ -47,25 +47,31 @@ Dimensiones adecuadas a los requerimientos, de fácil instalación y mantenimien
 
 
 
-PREGUNTAS FRECUENTES
-SISTEMA DE DESINFECCIÓN AUTOMATIZADO POR OZONO (O3)
+# Preguntas Frecuentes
+## Sistema de Desinfección Automatizado por Ozono (O₃)
 
-¿QUÉ ES EL OZONO?
-El ozono (O3) es una molécula compuesta por tres átomos de oxígeno, según la Organización Mundial de la Salud el ozono es el desinfectante más potente contra todo tipo de microorganismos que se puedan encontrar en superficies sólidas tales como los virus (COVID19).
-¿CÓMO SE GENERA EL OZONO?
-El ozono (O3) es una sustancia cuya molécula está compuesta por tres átomos de oxígeno, el oxígeno del aire es sometido a un pulso de alta energía, para romper su molécula O2 y recombinarla posteriormente en una molécula O3.
-¿CÓMO DESINFECTA EL OZONO?
-El ozono gracias a sus propiedades oxidantes, es considerado uno de los agentes microbicidas más rápido y eficaz que se conoce, pudiendo actuar sobre un amplio número de microorganismos tales como bacterias, hongos, virus.
-¿EL OZONO ES PERJUDICIAL O CANCERÍGENO?
-El ozono es un potente oxidante generalmente no dañino para mamíferos a bajas concentraciones, pero este es letal para los microorganismos tales como bacterias, hongos, virus.
-¿QUÉ BENEFICIOS APORTA LA COMPRA DE UN SISTEMA DE DESINFECCIÓN POR OZONO?
-	No se requiere la compra de alcohol u otros desinfectantes que tienden a ser dañinos para la salud y por ende cuidamos nuestra salud y el presupuesto.
-	No se requiere sistemas eléctricos de bombeo, brindando así un ahorro de energía.
-	No se utilizan sistema de aspersión que tienden a mojar a las personas, generando charcos de agua poco presentables en los establecimientos y pudiendo ser también un modo de contagio.
-	No es tóxico ni peligroso para la salud.
-	No mancha la ropa.
-	Elimina malos olores de la zona.
-	Al invertir en un sistema de desinfección los clientes se sentirán más seguros al asistir al establecimiento.
+### ¿Qué es el ozono?
+El **ozono (O₃)** es una molécula compuesta por tres átomos de oxígeno. Según la **Organización Mundial de la Salud (OMS)**, el ozono es el desinfectante más potente contra todo tipo de microorganismos que se pueden encontrar en superficies sólidas, como virus (incluyendo el **COVID-19**).
+
+### ¿Cómo se genera el ozono?
+El **ozono (O₃)** se genera cuando el oxígeno del aire (**O₂**) es sometido a un pulso de alta energía, rompiendo su molécula original para luego recombinarse en una molécula de **O₃**.
+
+### ¿Cómo desinfecta el ozono?
+El ozono, gracias a sus propiedades oxidantes, es considerado uno de los **agentes microbicidas más rápidos y eficaces**. Actúa sobre una amplia gama de microorganismos, incluyendo bacterias, hongos y virus.
+
+### ¿El ozono es perjudicial o cancerígeno?
+El ozono es un potente oxidante que, a **bajas concentraciones**, no es dañino para los mamíferos, pero es letal para microorganismos como bacterias, hongos y virus.
+
+### ¿Qué beneficios aporta la compra de un sistema de desinfección por ozono?
+
+- **No se requiere la compra de alcohol u otros desinfectantes** que pueden ser dañinos para la salud, ayudando a **cuidar el presupuesto** y proteger la salud.
+- **Ahorro de energía**: No se necesitan sistemas eléctricos de bombeo.
+- **No utiliza sistemas de aspersión** que podrían mojar a las personas y generar charcos, lo que podría ser un riesgo adicional de contagio.
+- **No es tóxico ni peligroso para la salud**.
+- **No mancha la ropa**.
+- **Elimina malos olores** en la zona desinfectada.
+- **Seguridad para los clientes**: Al invertir en un sistema de desinfección, los clientes se sentirán más seguros al asistir al establecimiento.
+
 
 
 
@@ -76,28 +82,44 @@ El ozono es un potente oxidante generalmente no dañino para mamíferos a bajas 
 </p>
 
 
-Si gustas ponerte en contacto conmigo, estoy encatando de ayudarte. 
-Si quieres que te comparta referencias:
+# SI GUSTAS PONERTE EN CONTACTO CON TODO GUSTO ESTOY ENCANTADO DE AYUDAR
 
-Dispositivo desinfeccion
-https://www.youtube.com/watch?v=5Adck4pl0bE
+# Recursos y Referencias: Sistema de Desinfección Automatizado por Ozono (O₃)
 
-Crear el generador de ozono
-https://www.youtube.com/watch?v=tZ591mhmXUQ
+## Dispositivo de Desinfección
+- **Descripción**: Video tutorial que explica cómo funciona un dispositivo de desinfección automatizado, similar a una cabina de desinfección.
+- **Enlace**: [Ver en YouTube](https://www.youtube.com/watch?v=5Adck4pl0bE)
 
-REACTOR DE OZONO
-https://articulo.mercadolibre.com.ec/MEC-426294369-reactor-generador-ozono-10000-mgh-desinfeccion-purificador-_JM?quantity=1#position=1&type=pad&tracking_id=36514d4e-e204-404d-b513-4805d9ef5ea3&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=NWI2MmI3ZmYtMWZkNC00MzEyLThkZDEtM2EzNTA0YmE3N2U3
-BOMBA CASERA CON MOTOR DE 12V
-https://www.youtube.com/watch?v=BDDlWk_RHS0       
-SENSOR DE APROXIMIDAD 
-https://www.youtube.com/watch?v=IF1eN0WK3bU      
-SENSOR DE APROXIMIDAD  EN A. NANO
-https://www.youtube.com/watch?v=O4BICS0MlkA
-BOMBA DE AGUA PARA ARDUINO
-https://www.youtube.com/watch?v=4KrkhyyxKEY  
-RELAY 5V
-https://www.youtube.com/watch?v=Cyny5CNuHSk
-https://www.youtube.com/watch?v=p12tVsf9R9g	   
-EJEMPLO DE UNA CAMARA DE DESINFECCION SIMILAR
-https://www.youtube.com/watch?v=CX1IPY9juRU	     
+## Crear el Generador de Ozono
+- **Descripción**: Instrucciones detalladas sobre cómo construir un generador de ozono, utilizado para desinfección en áreas de alto riesgo.
+- **Enlace**: [Ver en YouTube](https://www.youtube.com/watch?v=tZ591mhmXUQ)
 
+## Reactor de Ozono
+- **Descripción**: Reactor generador de ozono que produce grandes cantidades de ozono para aplicaciones de desinfección. Se puede adquirir en línea.
+- **Enlace**: [Ver en MercadoLibre](https://articulo.mercadolibre.com.ec/MEC-426294369-reactor-generador-ozono-10000-mgh-desinfeccion-purificador-_JM?quantity=1#position=1&type=pad&tracking_id=36514d4e-e204-404d-b513-4805d9ef5ea3&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=NWI2MmI3ZmYtMWZkNC00MzEyLThkZDEtM2EzNTA0YmE3N2U3)
+
+## Bomba Casera con Motor de 12V
+- **Descripción**: Tutorial que muestra cómo construir una bomba casera con un motor de 12V, ideal para proyectos de automatización de líquidos.
+- **Enlace**: [Ver en YouTube](https://www.youtube.com/watch?v=BDDlWk_RHS0)
+
+## Sensor de Proximidad
+- **Descripción**: Video que explica cómo funcionan los sensores de proximidad, los cuales son fundamentales para automatizar procesos sin contacto.
+- **Enlace**: [Ver en YouTube](https://www.youtube.com/watch?v=IF1eN0WK3bU)
+
+## Sensor de Proximidad en Arduino Nano
+- **Descripción**: Instrucciones sobre cómo integrar un sensor de proximidad en un **Arduino Nano** para controlar dispositivos automáticamente.
+- **Enlace**: [Ver en YouTube](https://www.youtube.com/watch?v=O4BICS0MlkA)
+
+## Bomba de Agua para Arduino
+- **Descripción**: Tutorial sobre cómo conectar y utilizar una bomba de agua con Arduino, útil en sistemas de desinfección.
+- **Enlace**: [Ver en YouTube](https://www.youtube.com/watch?v=4KrkhyyxKEY)
+
+## Relay 5V
+- **Descripción**: Dos videos que muestran cómo utilizar un **relay de 5V** para controlar el encendido y apagado de dispositivos electrónicos.
+- **Enlaces**: 
+  - [Ver primer video](https://www.youtube.com/watch?v=Cyny5CNuHSk)
+  - [Ver segundo video](https://www.youtube.com/watch?v=p12tVsf9R9g)
+
+## Ejemplo de una Cámara de Desinfección Similar
+- **Descripción**: Ejemplo de una cámara de desinfección que utiliza tecnología similar para desinfectar áreas públicas.
+- **Enlace**: [Ver en YouTube](https://www.youtube.com/watch?v=CX1IPY9juRU)
