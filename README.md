@@ -74,3 +74,24 @@ El ozono es un potente oxidante generalmente no dañino para mamíferos a bajas 
     <img src="https://i.postimg.cc/ncM9dSN8/image.png" alt="image">
   </a>
 </p>
+
+
+Si gustas ponerte en contacto conmigo, estoy encatando de ayudarte. 
+Si quieres que te comparta referencias:
+
+Dispositivo desinfeccion
+https://www.youtube.com/watch?v=5Adck4pl0bE
+
+Crear el generador de ozono
+https://www.youtube.com/watch?v=tZ591mhmXUQ
+
+REACTOR DE OZONO
+https://articulo.mercadolibre.com.ec/MEC-426294369-reactor-generador-ozono-10000-mgh-desinfeccion-purificador-_JM?quantity=1#position=1&type=pad&tracking_id=36514d4e-e204-404d-b513-4805d9ef5ea3&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=NWI2MmI3ZmYtMWZkNC00MzEyLThkZDEtM2EzNTA0YmE3N2U3
+https://www.youtube.com/watch?v=BDDlWk_RHS0      BOMBA CASERA CON MOTOR DE 12V 
+https://www.youtube.com/watch?v=IF1eN0WK3bU      SENSOR DE APROXIMIDAD 
+https://www.youtube.com/watch?v=O4BICS0MlkA	     SENSOR DE APROXIMIDAD  EN A. NANO
+https://www.youtube.com/watch?v=4KrkhyyxKEY      BOMBA DE AGUA PARA ARDUINO
+https://www.youtube.com/watch?v=Cyny5CNuHSk 	   RELAY 5V 
+https://www.youtube.com/watch?v=p12tVsf9R9g	     relay 5v
+https://www.youtube.com/watch?v=CX1IPY9juRU	     CAMARA DE DESINFECCION
+
