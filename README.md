@@ -7,11 +7,12 @@ Este proyecto consiste en el desarrollo de un sistema de desinfección automatiz
   </a>
 </p>
 
-Automatizacion
+##Automatizacion
 
 Detección automática de personas mediante un sistema de detección por sensores, evitando el contacto con superficies contaminadas, al momento de la desinfección.
 
-Adaptabilidad
+##Adaptabilidad
+
 Dimensiones adecuadas a los requerimientos, de fácil instalación y mantenimiento, materiales amigables con el medio ambiente, sin el uso de químicos ni agua. 
 
 
