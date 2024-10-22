@@ -7,11 +7,11 @@ Este proyecto consiste en el desarrollo de un sistema de desinfección automatiz
   </a>
 </p>
 
-##Automatizacion
+Automatizacion
 
 Detección automática de personas mediante un sistema de detección por sensores, evitando el contacto con superficies contaminadas, al momento de la desinfección.
 
-##Adaptabilidad
+Adaptabilidad
 
 Dimensiones adecuadas a los requerimientos, de fácil instalación y mantenimiento, materiales amigables con el medio ambiente, sin el uso de químicos ni agua. 
 
@@ -82,45 +82,47 @@ El ozono es un potente oxidante que, a **bajas concentraciones**, no es dañino 
   </a>
 </p>
 
+<p align="center">
+<strong>Si gustas ponerte en contacto conmigo, estaré encantado de ayudarte</strong>
+</p>
 
-# SI GUSTAS PONERTE EN CONTACTO CON TODO GUSTO ESTOY ENCANTADO DE AYUDAR
+### Recursos y Referencias: Sistema de Desinfección Automatizado por Ozono (O₃)
 
-# Recursos y Referencias: Sistema de Desinfección Automatizado por Ozono (O₃)
-
-## Dispositivo de Desinfección
+#### Dispositivo de Desinfección
 - **Descripción**: Video tutorial que explica cómo funciona un dispositivo de desinfección automatizado, similar a una cabina de desinfección.
 - **Enlace**: [Ver en YouTube](https://www.youtube.com/watch?v=5Adck4pl0bE)
 
-## Crear el Generador de Ozono
+#### Crear el Generador de Ozono
 - **Descripción**: Instrucciones detalladas sobre cómo construir un generador de ozono, utilizado para desinfección en áreas de alto riesgo.
 - **Enlace**: [Ver en YouTube](https://www.youtube.com/watch?v=tZ591mhmXUQ)
 
-## Reactor de Ozono
+#### Reactor de Ozono
 - **Descripción**: Reactor generador de ozono que produce grandes cantidades de ozono para aplicaciones de desinfección. Se puede adquirir en línea.
 - **Enlace**: [Ver en MercadoLibre](https://articulo.mercadolibre.com.ec/MEC-426294369-reactor-generador-ozono-10000-mgh-desinfeccion-purificador-_JM?quantity=1#position=1&type=pad&tracking_id=36514d4e-e204-404d-b513-4805d9ef5ea3&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=NWI2MmI3ZmYtMWZkNC00MzEyLThkZDEtM2EzNTA0YmE3N2U3)
 
-## Bomba Casera con Motor de 12V
+#### Bomba Casera con Motor de 12V
 - **Descripción**: Tutorial que muestra cómo construir una bomba casera con un motor de 12V, ideal para proyectos de automatización de líquidos.
 - **Enlace**: [Ver en YouTube](https://www.youtube.com/watch?v=BDDlWk_RHS0)
 
-## Sensor de Proximidad
+#### Sensor de Proximidad
 - **Descripción**: Video que explica cómo funcionan los sensores de proximidad, los cuales son fundamentales para automatizar procesos sin contacto.
 - **Enlace**: [Ver en YouTube](https://www.youtube.com/watch?v=IF1eN0WK3bU)
 
-## Sensor de Proximidad en Arduino Nano
+#### Sensor de Proximidad en Arduino Nano
 - **Descripción**: Instrucciones sobre cómo integrar un sensor de proximidad en un **Arduino Nano** para controlar dispositivos automáticamente.
 - **Enlace**: [Ver en YouTube](https://www.youtube.com/watch?v=O4BICS0MlkA)
 
-## Bomba de Agua para Arduino
+#### Bomba de Agua para Arduino
 - **Descripción**: Tutorial sobre cómo conectar y utilizar una bomba de agua con Arduino, útil en sistemas de desinfección.
 - **Enlace**: [Ver en YouTube](https://www.youtube.com/watch?v=4KrkhyyxKEY)
 
-## Relay 5V
+#### Relay 5V
 - **Descripción**: Dos videos que muestran cómo utilizar un **relay de 5V** para controlar el encendido y apagado de dispositivos electrónicos.
 - **Enlaces**: 
   - [Ver primer video](https://www.youtube.com/watch?v=Cyny5CNuHSk)
   - [Ver segundo video](https://www.youtube.com/watch?v=p12tVsf9R9g)
 
-## Ejemplo de una Cámara de Desinfección Similar
+#### Ejemplo de una Cámara de Desinfección Similar
 - **Descripción**: Ejemplo de una cámara de desinfección que utiliza tecnología similar para desinfectar áreas públicas.
 - **Enlace**: [Ver en YouTube](https://www.youtube.com/watch?v=CX1IPY9juRU)
+
