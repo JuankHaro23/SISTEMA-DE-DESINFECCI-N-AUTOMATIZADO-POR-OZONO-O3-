@@ -1,5 +1,5 @@
 # SISTEMA-DE-DESINFECCION-AUTOMATIZADO-POR-OZONO-O3-
-Este proyecto consiste en el desarrollo de un sistema de desinfección automatizado por ozono (O₃) utilizando un Arduino Uno y varios sensores para automatizar completamente el proceso de desinfección. El sistema se enciende, realiza el proceso de desinfección y se apaga automáticamente, garantizando un funcionamiento eficiente y seguro.
+Este proyecto consiste en el desarrollo de un sistema de desinfección automatizado por ozono (O₃) utilizando un Arduino Uno y varios sensores para automatizar completamente el proceso de desinfección. El sistema se enciende, realiza el proceso de desinfección y se apaga automáticamente, garantizando un funcionamiento eficiente y seguro. En los archivos podras ver un video del funcionamiento de la cabina para mayor facilidad de entendimiento.
 
 <p align="center">
   <a href="https://postimg.cc/nM7Hymvm">
@@ -87,11 +87,17 @@ https://www.youtube.com/watch?v=tZ591mhmXUQ
 
 REACTOR DE OZONO
 https://articulo.mercadolibre.com.ec/MEC-426294369-reactor-generador-ozono-10000-mgh-desinfeccion-purificador-_JM?quantity=1#position=1&type=pad&tracking_id=36514d4e-e204-404d-b513-4805d9ef5ea3&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=NWI2MmI3ZmYtMWZkNC00MzEyLThkZDEtM2EzNTA0YmE3N2U3
-https://www.youtube.com/watch?v=BDDlWk_RHS0      BOMBA CASERA CON MOTOR DE 12V 
-https://www.youtube.com/watch?v=IF1eN0WK3bU      SENSOR DE APROXIMIDAD 
-https://www.youtube.com/watch?v=O4BICS0MlkA	     SENSOR DE APROXIMIDAD  EN A. NANO
-https://www.youtube.com/watch?v=4KrkhyyxKEY      BOMBA DE AGUA PARA ARDUINO
-https://www.youtube.com/watch?v=Cyny5CNuHSk 	   RELAY 5V 
-https://www.youtube.com/watch?v=p12tVsf9R9g	     relay 5v
-https://www.youtube.com/watch?v=CX1IPY9juRU	     CAMARA DE DESINFECCION
+BOMBA CASERA CON MOTOR DE 12V
+https://www.youtube.com/watch?v=BDDlWk_RHS0       
+SENSOR DE APROXIMIDAD 
+https://www.youtube.com/watch?v=IF1eN0WK3bU      
+SENSOR DE APROXIMIDAD  EN A. NANO
+https://www.youtube.com/watch?v=O4BICS0MlkA
+BOMBA DE AGUA PARA ARDUINO
+https://www.youtube.com/watch?v=4KrkhyyxKEY  
+RELAY 5V
+https://www.youtube.com/watch?v=Cyny5CNuHSk
+https://www.youtube.com/watch?v=p12tVsf9R9g	   
+EJEMPLO DE UNA CAMARA DE DESINFECCION SIMILAR
+https://www.youtube.com/watch?v=CX1IPY9juRU	     
 
